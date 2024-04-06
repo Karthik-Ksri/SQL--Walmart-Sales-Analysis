@@ -66,7 +66,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 2. **Exploratory Data Analysis (EDA):** Exploratory data analysis is done to answer the listed questions and aims of this project.
 
-3. **Conclusion:**The outlined process is fundamental to understanding and analyzing sales data effectively. By ensuring data quality through the creation of insightful features through engineering and conducting thorough exploratory analysis, businesses can uncover valuable insights that can drive decision-making processes. This approach not only helps in understanding current sales trends but also enables businesses to identify opportunities for improvement and optimization. 
+3. **Conclusion:** The outlined process is fundamental to understanding and analyzing sales data effectively. By ensuring data quality through the creation of insightful features through engineering and conducting thorough exploratory analysis, businesses can uncover valuable insights that can drive decision-making processes. This approach not only helps in understanding current sales trends but also enables businesses to identify opportunities for improvement and optimization. 
 
 ## Business Questions To Answer
 
